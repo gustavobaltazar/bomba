@@ -1,7 +1,7 @@
 # bomba
 
 ## How to run:
-First you'll need to clone the repo to your local machine, to run the FRONTEND you need to install [Node](https://nodejs.org/en/)
+First you'll need to clone the repo to your local machine, to run you need to install [Node](https://nodejs.org/en/)
 ### Clone Repo:
 
 ```bash
